@@ -22,8 +22,8 @@ de que la conjetura es para cualquier 'X'.
 
 **Tu tarea**  es que para los numeros dados calcules cuantos pasos son necesarios para llegar a '1'
 
-**Datos de entrada**  en la primera linea contiene el numero de casos a calcular.  
-La segunda linea contiene los casos de prueba- Es decir, los valores para los cuales el calculo debe ser hecho.
+**Datos de entrada** la primera linea contiene el numero de casos a calcular.  
+La segunda linea contiene los casos de prueba- Es decir, los valores para los cuales el calculo debe ser hecho--separados por espacios.
 **Respuesta** debe contener la misma cantidad de resultados, cada una de ellas dando la cuenta del numero de pasos en la secuencia de Collatz
 para llegar a ´1´.
 
